@@ -19,5 +19,5 @@ menggunakan API Coinlore.
 - Coinlore API
 
 ## Cara Menjalankan
-npm install
-ionic serve
+- npm install
+- ionic serve
