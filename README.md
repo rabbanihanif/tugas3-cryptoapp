@@ -1,7 +1,6 @@
 # Crypto Ticker App (Ionic + Vue)
 
-Aplikasi mobile sederhana untuk menampilkan daftar cryptocurrency
-menggunakan API Coinlore.
+Aplikasi mobile sederhana ini dibuat sebagai Tugas 3 Praktikum Pemrograman Berbasis Perangkat Bergerak Universitas Terbuka, dengan tujuan menampilkan daftar cryptocurrency menggunakan API Coinlore.
 
 ## Fitur
 - Fetch data real-time dari API
